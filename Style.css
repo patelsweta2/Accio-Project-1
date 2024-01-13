@@ -1,0 +1,13 @@
+p {
+  font-weight: 400;
+}
+a {
+  color: blue;
+  text-decoration: underline;
+}
+table,
+th,
+td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
